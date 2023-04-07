@@ -1,0 +1,11 @@
+--recurse=yes
+--exclude=.git
+--exclude=vendor/*
+--exclude=node_modules/*
+--exclude=db/*
+--exclude=log/*
+--exclude=venv/*
+--exclude=.venv/*
+--exclude=__pycache__/*
+--exclude=python_external_deps/*
+--exclude=.mypy_cache/*
