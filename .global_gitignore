@@ -1,0 +1,5 @@
+# Files to be ignored in every single git repo on this machine
+.flake8
+.pylintrc
+tags
+.mypy_cache

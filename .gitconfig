@@ -1,0 +1,10 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Xander Desai
+	email = xdesai@duosecurity.com
+[core]
+	editor = /usr/local/bin/vim
+  excludesfile = /Users/xdesai/.global_gitignore
+[diff]
+	noprefix = true
